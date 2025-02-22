@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  ror-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-22T19:04:42.575022672+01:00"
+    description: ROR API
+    digest: 0f79a90b9a79b12a75d9c898a3e2c10208d2e4d58f984c778693f16674f7fbc4
+    icon: https://raw.githubusercontent.com/NorskHelsenett/ror/main/media/ror.svg
+    name: ror-api
+    type: application
+    urls:
+    - https://vidarno.github.io/ror-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-22T19:04:42.573667872+01:00"
